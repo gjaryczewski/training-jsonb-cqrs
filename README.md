@@ -1,1 +1,1 @@
-# training-jsonb
+# training-jsonb-cqrs
